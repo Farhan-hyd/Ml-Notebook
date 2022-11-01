@@ -11,7 +11,7 @@ Links:
 - <https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114#1c09>
 - <https://www.geeksforgeeks.org/data-preprocessing-machine-learning-python/>
 
-[code snippet](.\ml.ipynb#Data-Preprocessing) and important libraries:
+[code snippet](https://github.com/Farhan-hyd/Ml-Notebook/blob/main/ml.ipynb#Data-Preprocessing) and important libraries:
 
 - [pandas](https://regenerativetoday.com/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks/)
 - [numpy](https://www.codingninjas.com/codestudio/library/important-numpy-functions-for-ml)
@@ -29,7 +29,7 @@ Links:
 - <https://medium.com/data-science-group-iitr/logistic-regression-simplified-9b4efe801389>
 - <https://www.geeksforgeeks.org/multivariate-regression/>
 
-[code snippet](.\ml.ipynb#Regression) and important libraries:
+[code snippet](https://github.com/Farhan-hyd/Ml-Notebook/blob/main/ml.ipynb#Regression) and important libraries:
 
 - [sklearn: train_test_split](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
 - [sklearn: LinearRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
@@ -44,7 +44,7 @@ Links:
 
 - <https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052>
 
-[code snippet](.\ml.ipynb#CART) and important libraries:
+[code snippet](https://github.com/Farhan-hyd/Ml-Notebook/blob/main/ml.ipynb#CART) and important libraries:
 
 - [sklearn: DecisionTreeClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
 - [sklearn: plot_tree](https://scikit-learn.org/stable/modules/generated/sklearn.tree.plot_tree.html)
@@ -56,7 +56,7 @@ Links:
 
 - <https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47>
 
-[code snippet](.\ml.ipynb#SVM) and important libraries:
+[code snippet](https://github.com/Farhan-hyd/Ml-Notebook/blob/main/ml.ipynb#SVM) and important libraries:
 
 - [sklearn: SVC](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)
 - [sklearn: confusion_matrix](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html)
@@ -68,7 +68,7 @@ Links:
 
 - <https://www.geeksforgeeks.org/graph-clustering-methods-in-data-mining/>
 
-[code snippet](.\ml.ipynb#Graph-based-clustering) and important libraries:
+[code snippet](https://github.com/Farhan-hyd/Ml-Notebook/blob/main/ml.ipynb#Graph-based-clustering) and important libraries:
   
 - [sklearn: KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
 - [sklearn: SpectralClustering](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.SpectralClustering.html)
@@ -81,7 +81,7 @@ Links:
 - <https://towardsdatascience.com/explaining-dbscan-clustering-18eaf5c83b31>
 - <https://stats.stackexchange.com/questions/88872/a-routine-to-choose-eps-and-minpts-for-dbscan>
 
-[code snippet](.\ml.ipynb#DBSCAN) and important libraries:
+[code snippet](https://github.com/Farhan-hyd/Ml-Notebook/blob/main/ml.ipynb#DBSCAN) and important libraries:
   
 - [sklearn: DBSCAN](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html)
 
@@ -92,7 +92,7 @@ Links:
 
 - <https://www.simplilearn.com/tutorials/machine-learning-tutorial/bagging-in-machine-learning>
 
-[code snippet](.\ml.ipynb#Bagging) and important libraries:
+[code snippet](https://github.com/Farhan-hyd/Ml-Notebook/blob/main/ml.ipynb#Baggging) and important libraries:
   
 - [sklearn: RandomForestClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 
@@ -103,7 +103,7 @@ Links:
 
 - <https://www.geeksforgeeks.org/boosting-in-machine-learning-boosting-and-adaboost/>
 
-[code snippet](.\ml.ipynb#Boosting) and important libraries:
+[code snippet](https://github.com/Farhan-hyd/Ml-Notebook/blob/main/ml.ipynb#Boosting) and important libraries:
   
 - [sklearn: GradientBoostingRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html)
 
@@ -112,6 +112,6 @@ Links:
 Dimensionality reduction is the process of reducing the number of random variables under consideration by obtaining a set of principal variables.
 Principal component analysis (PCA) is a statistical procedure that uses an orthogonal transformation to convert a set of observations of possibly correlated variables into a set of values of linearly uncorrelated variables called principal components.
 
-PCA is implemented in [DBSCAN](.\ml.ipynb#DBSCAN) and important libraries:
+PCA is implemented in [DBSCAN](https://github.com/Farhan-hyd/Ml-Notebook/blob/main/ml.ipynb#DBSCAN) and important libraries:
 
 - [sklearn: PCA](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
